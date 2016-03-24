@@ -40,15 +40,18 @@
                 </p:layoutUnit>
 
                 <p:layoutUnit position="center">
-                    Welcome to PrimeFaces
+                    Select your preferences
                     <h:form id="form">
                         <p:growl id="msgs" showDetail="true" /> 
-                        <h:panelGrid columns="2" cellpadding="5">                           
+                        <h:panelGrid columns="4" cellpadding="5">    
+                            
                             <p:outputLabel for="departDate" value="Depart date:" />
-                            <p:calendar id="departDate" value="#{calendarView.dateDep}" pages="2" mindate="24/4/16" pattern="dd/MM/yyyy" mask="true" />
+                            <p:calendar id="departDate" value="#{calendarView.dateDep}" pages="2" mindate="24/4/16" pattern="dd/MM/yyyy" mask="true" />                            
                             <p:outputLabel for="arrivalDate" value="Arrival date:" />
                             <p:calendar id="arrivalDate" value="#{calendarView.dateArr}" pages="2" mindate="#{calendarView.dateDep}" pattern="dd/MM/yyyy" mask="true" />
-                            <p:commandButton value="Search" update="msgs" actionListener="#{calendarView.click}" icon="ui-icon-check" />                            
+                            
+                                                 
+               
                         </h:panelGrid>
                         <p:dialog modal="true" resizable="false" header="Values" widgetVar="dlg" showEffect="fold">
                             <p:panelGrid id="display" columns="2" columnClasses="label,value">                            
@@ -61,8 +64,10 @@
                                     <f:convertDateTime pattern="MM/dd/yyyy" />
                                 </h:outputText>    
                             </p:panelGrid>  
-                        </p:dialog>    
+                        </p:dialog>
+                        <p:commandButton value="Search" update="msgs" actionListener="#{calendarView.click}" icon="ui-icon-check" />
                     </h:form>
+                    
                 </p:layoutUnit>
             </p:layout>
         </h:body>
