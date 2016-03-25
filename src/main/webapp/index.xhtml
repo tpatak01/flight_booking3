@@ -50,7 +50,7 @@
                             <p:outputLabel for="arrivalDate" value="Arrival date:" />
                             <p:calendar id="arrivalDate" value="#{calendarView.dateArr}" pages="2" mindate="#{calendarView.dateDep}" pattern="dd/MM/yyyy" mask="true" />
                             
-                            <p:outputLabel value="From:: " for="srcAP" />
+                            <p:outputLabel value="From: " for="srcAP" />
                             <p:autoComplete id="srcAP" value="#{autoCompleteView.theme1}" completeMethod="#{autoCompleteView.completeTheme}"
                                     var="theme" itemLabel="#{theme.displayName}" itemValue="#{theme}" converter="themeConverter" forceSelection="true" />                      
                             <p:outputLabel value="To: " for="destAP" />
@@ -73,6 +73,8 @@
                         </p:dialog>
                         <p:commandButton value="Search" update="msgs" actionListener="#{calendarView.click}" icon="ui-icon-check" />
                     </h:form>
+                    Here is some other things to write: <br />
+                    <h:outputText value="#{db_query.getResult()}" />
                     
                 </p:layoutUnit>
             </p:layout>
