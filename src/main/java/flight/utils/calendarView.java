@@ -29,7 +29,7 @@ import org.primefaces.event.SelectEvent;
 public class calendarView {
          
     private Date dateDep;
-    private Date dateArr;
+    private Date dateRep;
         
     public void onDateSelect(SelectEvent event) {
         FacesContext facesContext = FacesContext.getCurrentInstance();
@@ -52,12 +52,12 @@ public class calendarView {
         this.dateDep = dateDep;
     }
  
-    public Date getDateArr() {
-        return dateArr;
+    public Date getDateRep() {
+        return dateRep;
     }
  
-    public void setDateArr(Date dateArr) {
-        this.dateArr = dateArr;
+    public void setDateRep(Date dateRep) {
+        this.dateRep = dateRep;
     }
  
 }

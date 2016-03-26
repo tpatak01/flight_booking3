@@ -30,9 +30,9 @@
                     <p:menu>
                         <p:submenu>
                             <p:menuitem value="Booking" url="#" />
-                            <p:menuitem value="Documentation" url="#" />
-                            <p:menuitem value="Forum" url="#" />
-                            <p:menuitem value="Themes" url="#" />
+                            <p:menuitem value="My page" url="#" />
+                            <p:menuitem value="Admin Login" url="admin/admin_login.xhtml" />
+                            
 
                         </p:submenu>
 
@@ -47,8 +47,8 @@
                             
                             <p:outputLabel for="departDate" value="Depart date:" />
                             <p:calendar id="departDate" value="#{calendarView.dateDep}" pages="2" mindate="24/4/16" pattern="dd/MM/yyyy" mask="true" />                            
-                            <p:outputLabel for="arrivalDate" value="Arrival date:" />
-                            <p:calendar id="arrivalDate" value="#{calendarView.dateArr}" pages="2" mindate="#{calendarView.dateDep}" pattern="dd/MM/yyyy" mask="true" />
+                            <p:outputLabel for="returnDate" value="Return date:" />
+                            <p:calendar id="returnDate" value="#{calendarView.dateRet}" pages="2" mindate="#{calendarView.dateDep}" pattern="dd/MM/yyyy" mask="true" />
                             
                             <p:outputLabel value="From: " for="srcAP" />
                             <p:autoComplete id="srcAP" value="#{autoCompleteView.theme1}" completeMethod="#{autoCompleteView.completeTheme}"
