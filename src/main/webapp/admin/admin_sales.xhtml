@@ -42,7 +42,7 @@
 
                 <p:layoutUnit position="center">
                     <p class="red">Flights with selling seats:</p>
-                    <p:dataTable var="Flight" value="#{dtActiveView.flights}">
+                    <p:dataTable var="Flight" value="#{dtsellingView.flights}">
                         <p:column headerText="Id">
                             <h:outputText value="#{Flight.fid}" />
                         </p:column>
@@ -100,8 +100,8 @@
                         </p:column> 
                       
                     </p:dataTable>                    
-                    <p class="red">Flights sold out:</p>
-                    <p:dataTable var="Flight" value="#{dtCancelledView.flights}">
+                    <p class="red">Sold out flights</p>
+                    <p:dataTable var="Flight" value="#{dtsoldView.flights}">
                         <p:column headerText="Id">
                             <h:outputText value="#{Flight.fid}" />
                         </p:column>

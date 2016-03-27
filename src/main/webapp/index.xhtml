@@ -54,8 +54,7 @@
                                     var="theme" itemLabel="#{theme.displayName}" itemValue="#{theme}" converter="themeConverter" forceSelection="true" />                      
                             <p:outputLabel value="To: " for="destAP" />
                             <p:autoComplete id="destAP" value="#{autoCompleteView.theme1}" completeMethod="#{autoCompleteView.completeTheme}"
-                                    var="theme" itemLabel="#{theme.displayName}" itemValue="#{theme}" converter="themeConverter" forceSelection="true" /> 
-                                              
+                                    var="theme" itemLabel="#{theme.displayName}" itemValue="#{theme}" converter="themeConverter" forceSelection="true" />                                               
                
                         </h:panelGrid>
                         <p:dialog modal="true" resizable="false" header="Values" widgetVar="dlg" showEffect="fold">
@@ -65,7 +64,7 @@
                                     <f:convertDateTime pattern="MM/dd/yyyy" />
                                 </h:outputText>
                                 <h:outputText value="Return:" />
-                                <h:outputText value="#{calendarView.dateArr}">
+                                <h:outputText value="#{calendarView.dateRet}">
                                     <f:convertDateTime pattern="MM/dd/yyyy" />
                                 </h:outputText>    
                             </p:panelGrid>  

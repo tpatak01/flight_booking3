@@ -6,13 +6,10 @@
 package flight.utils;
 
 
-public class calendarView {
-    
-}
 /**
  *
  * @author tomkabp
- 
+ */
 
 
 
@@ -29,7 +26,7 @@ import org.primefaces.event.SelectEvent;
 public class calendarView {
          
     private Date dateDep;
-    private Date dateRep;
+    private Date dateRet;
         
     public void onDateSelect(SelectEvent event) {
         FacesContext facesContext = FacesContext.getCurrentInstance();
@@ -41,7 +38,7 @@ public class calendarView {
         RequestContext requestContext = RequestContext.getCurrentInstance();
          
         requestContext.update("form:display");
-        //requestContext.execute("PF('dlg').show()");
+        requestContext.execute("PF('dlg').show()");
     }
  
     public Date getDateDep() {
@@ -52,13 +49,12 @@ public class calendarView {
         this.dateDep = dateDep;
     }
  
-    public Date getDateRep() {
-        return dateRep;
+    public Date getDateRet() {
+        return dateRet;
     }
  
-    public void setDateRep(Date dateRep) {
-        this.dateRep = dateRep;
+    public void setDateRet(Date dateRet) {
+        this.dateRet = dateRet;
     }
  
 }
-*/
