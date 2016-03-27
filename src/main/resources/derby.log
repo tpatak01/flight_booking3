@@ -1,2 +1,1911 @@
-Sat Mar 26 14:41:40 GMT 2016 : Could not listen on port 1527 on host localhost:
- java.net.BindException: Address already in use: JVM_Bind
+Sat Mar 26 21:16:33 GMT 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat Mar 26 21:18:23 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:40:11 GMT 2016:
+Shutting down instance a816c00e-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:40:11 GMT 2016 Thread[DRDAConnThread_8,5,main] (DATABASE = flight_booking3-test), (DRDAID = {10}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:40:12 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 5b678054-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:40:12 GMT 2016:
+Shutting down instance 5b678054-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:40:12 GMT 2016 Thread[DRDAConnThread_9,5,main] (DATABASE = flight_booking3-test), (DRDAID = {12}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:40:24 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 03d30059-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:40:35 GMT 2016:
+Shutting down instance 03d30059-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:40:35 GMT 2016 Thread[DRDAConnThread_12,5,main] (DATABASE = flight_booking3-test), (DRDAID = {17}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:41:21 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a4bcc063-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:41:23 GMT 2016:
+Shutting down instance a4bcc063-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:41:23 GMT 2016 Thread[DRDAConnThread_13,5,main] (DATABASE = flight_booking3-test), (DRDAID = {20}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:41:43 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2589c06b-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:41:43 GMT 2016:
+Shutting down instance 2589c06b-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:41:43 GMT 2016 Thread[DRDAConnThread_14,5,main] (DATABASE = flight_booking3-test), (DRDAID = {22}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:42:20 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance fe120070-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:42:20 GMT 2016:
+Shutting down instance fe120070-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:42:20 GMT 2016 Thread[DRDAConnThread_15,5,main] (DATABASE = flight_booking3-test), (DRDAID = {24}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:43:36 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 46a08075-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:43:37 GMT 2016:
+Shutting down instance 46a08075-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:43:37 GMT 2016 Thread[DRDAConnThread_16,5,main] (DATABASE = flight_booking3-test), (DRDAID = {26}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:43:55 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance cf35407a-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:43:55 GMT 2016:
+Shutting down instance cf35407a-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:43:55 GMT 2016 Thread[DRDAConnThread_17,5,main] (DATABASE = flight_booking3-test), (DRDAID = {28}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:03 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 67d0407f-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:45:04 GMT 2016:
+Shutting down instance 67d0407f-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:04 GMT 2016 Thread[DRDAConnThread_18,5,main] (DATABASE = flight_booking3-test), (DRDAID = {30}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:06 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance e0718084-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:45:06 GMT 2016:
+Shutting down instance e0718084-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:06 GMT 2016 Thread[DRDAConnThread_19,5,main] (DATABASE = flight_booking3-test), (DRDAID = {32}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:13 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 09190089-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+Sat Mar 26 21:45:13 GMT 2016 Thread[DRDAConnThread_20,5,main] (DATABASE = flight_booking3-test), (DRDAID = {35}), Java exception: ': org.apache.derby.iapi.error.ShutdownException'.
+----------------------------------------------------------------
+Sat Mar 26 21:45:13 GMT 2016:
+Shutting down instance 09190089-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:13 GMT 2016 Thread[DRDAConnThread_21,5,main] (DATABASE = flight_booking3-test), (DRDAID = {36}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:14 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 69ea408f-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:45:14 GMT 2016:
+Shutting down instance 69ea408f-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:14 GMT 2016 Thread[DRDAConnThread_22,5,main] (DATABASE = flight_booking3-test), (DRDAID = {38}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:15 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 629f8094-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:45:15 GMT 2016:
+Shutting down instance 629f8094-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:15 GMT 2016 Thread[DRDAConnThread_23,5,main] (DATABASE = flight_booking3-test), (DRDAID = {40}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:45:25 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 0b5b0099-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:45:34 GMT 2016:
+Shutting down instance 0b5b0099-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:45:34 GMT 2016 Thread[DRDAConnThread_21,5,main] (DATABASE = flight_booking3-test), (DRDAID = {44}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:46:33 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 94bc40a2-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:49:15 GMT 2016:
+Shutting down instance 94bc40a2-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:49:15 GMT 2016 Thread[DRDAConnThread_24,5,main] (DATABASE = flight_booking3-test), (DRDAID = {47}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sat Mar 26 21:50:21 GMT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a8604102-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 26 21:50:21 GMT 2016:
+Shutting down instance a8604102-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat Mar 26 21:50:21 GMT 2016 Thread[DRDAConnThread_25,5,main] (DATABASE = flight_booking3-test), (DRDAID = {49}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:29:03 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 01a54107-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:29:03 BST 2016:
+Shutting down instance 01a54107-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:29:03 BST 2016 Thread[DRDAConnThread_26,5,main] (DATABASE = flight_booking3-test), (DRDAID = {51}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:29:55 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance baf0810c-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:29:55 BST 2016:
+Shutting down instance baf0810c-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:29:55 BST 2016 Thread[DRDAConnThread_27,5,main] (DATABASE = flight_booking3-test), (DRDAID = {53}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:30:04 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a4420111-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:30:04 BST 2016:
+Shutting down instance a4420111-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:30:04 BST 2016 Thread[DRDAConnThread_28,5,main] (DATABASE = flight_booking3-test), (DRDAID = {55}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:31:13 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 8d99c116-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:31:13 BST 2016:
+Shutting down instance 8d99c116-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:31:13 BST 2016 Thread[DRDAConnThread_29,5,main] (DATABASE = flight_booking3-test), (DRDAID = {57}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:32:10 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 46f7c11b-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:32:10 BST 2016:
+Shutting down instance 46f7c11b-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:32:10 BST 2016 Thread[DRDAConnThread_30,5,main] (DATABASE = flight_booking3-test), (DRDAID = {59}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:35:04 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a05c0120-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:35:04 BST 2016:
+Shutting down instance a05c0120-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:35:04 BST 2016 Thread[DRDAConnThread_31,5,main] (DATABASE = flight_booking3-test), (DRDAID = {61}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:35:23 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 69c68125-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:35:24 BST 2016:
+Shutting down instance 69c68125-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:35:24 BST 2016 Thread[DRDAConnThread_32,5,main] (DATABASE = flight_booking3-test), (DRDAID = {63}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:35:31 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 7337412a-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:35:31 BST 2016:
+Shutting down instance 7337412a-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:35:31 BST 2016 Thread[DRDAConnThread_33,5,main] (DATABASE = flight_booking3-test), (DRDAID = {65}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:35:48 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 8cae412f-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:35:48 BST 2016:
+Shutting down instance 8cae412f-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:35:48 BST 2016 Thread[DRDAConnThread_34,5,main] (DATABASE = flight_booking3-test), (DRDAID = {67}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:36:29 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 862b8134-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:48:28 BST 2016:
+Shutting down instance 862b8134-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:48:28 BST 2016 Thread[DRDAConnThread_37,5,main] (DATABASE = flight_booking3-test), (DRDAID = {72}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:48:49 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6029c16b-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:50:17 BST 2016:
+Shutting down instance 6029c16b-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:50:17 BST 2016 Thread[DRDAConnThread_34,5,main] (DATABASE = flight_booking3-test), (DRDAID = {75}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:50:17 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 4b390189-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:50:17 BST 2016:
+Shutting down instance 4b390189-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:50:17 BST 2016 Thread[DRDAConnThread_38,5,main] (DATABASE = flight_booking3-test), (DRDAID = {77}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:52:35 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance f526c18e-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:52:35 BST 2016:
+Shutting down instance f526c18e-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:52:35 BST 2016 Thread[DRDAConnThread_21,5,main] (DATABASE = flight_booking3-test), (DRDAID = {79}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:52:35 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance ef1ac193-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:52:35 BST 2016:
+Shutting down instance ef1ac193-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:52:35 BST 2016 Thread[DRDAConnThread_39,5,main] (DATABASE = flight_booking3-test), (DRDAID = {81}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:55:52 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 09150198-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:55:53 BST 2016:
+Shutting down instance 09150198-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:55:53 BST 2016 Thread[DRDAConnThread_38,5,main] (DATABASE = flight_booking3-test), (DRDAID = {83}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:55:53 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 1315819d-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:55:53 BST 2016:
+Shutting down instance 1315819d-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:55:53 BST 2016 Thread[DRDAConnThread_40,5,main] (DATABASE = flight_booking3-test), (DRDAID = {85}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:56:07 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance dd1c41a2-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:56:07 BST 2016:
+Shutting down instance dd1c41a2-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:56:07 BST 2016 Thread[DRDAConnThread_39,5,main] (DATABASE = flight_booking3-test), (DRDAID = {87}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:56:07 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 372941a7-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:56:07 BST 2016:
+Shutting down instance 372941a7-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:56:07 BST 2016 Thread[DRDAConnThread_41,5,main] (DATABASE = flight_booking3-test), (DRDAID = {89}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:56:18 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance f13c81ac-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:57:03 BST 2016:
+Shutting down instance f13c81ac-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:57:03 BST 2016 Thread[DRDAConnThread_37,5,main] (DATABASE = flight_booking3-test), (DRDAID = {92}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:57:03 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance f0bc01e1-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:57:03 BST 2016:
+Shutting down instance f0bc01e1-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:57:03 BST 2016 Thread[DRDAConnThread_42,5,main] (DATABASE = flight_booking3-test), (DRDAID = {94}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:57:39 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 5b17c1e6-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:57:39 BST 2016:
+Shutting down instance 5b17c1e6-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:57:39 BST 2016 Thread[DRDAConnThread_40,5,main] (DATABASE = flight_booking3-test), (DRDAID = {96}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 12:57:39 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 9579c1eb-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 12:57:40 BST 2016:
+Shutting down instance 9579c1eb-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 12:57:40 BST 2016 Thread[DRDAConnThread_43,5,main] (DATABASE = flight_booking3-test), (DRDAID = {98}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:08 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6fe201f0-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:13 BST 2016:
+Shutting down instance 6fe201f0-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:13 BST 2016 Thread[DRDAConnThread_41,5,main] (DATABASE = flight_booking3-test), (DRDAID = {101}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:13 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 84490209-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:13 BST 2016:
+Shutting down instance 84490209-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:13 BST 2016 Thread[DRDAConnThread_44,5,main] (DATABASE = flight_booking3-test), (DRDAID = {103}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:43 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2ed6c20e-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:43 BST 2016:
+Shutting down instance 2ed6c20e-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:43 BST 2016 Thread[DRDAConnThread_42,5,main] (DATABASE = flight_booking3-test), (DRDAID = {105}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:43 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 296ac213-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:43 BST 2016:
+Shutting down instance 296ac213-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:43 BST 2016 Thread[DRDAConnThread_45,5,main] (DATABASE = flight_booking3-test), (DRDAID = {107}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:50 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 44050218-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:51 BST 2016:
+Shutting down instance 44050218-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:51 BST 2016 Thread[DRDAConnThread_44,5,main] (DATABASE = flight_booking3-test), (DRDAID = {109}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:02:51 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 4ea5821d-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:02:51 BST 2016:
+Shutting down instance 4ea5821d-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:02:51 BST 2016 Thread[DRDAConnThread_46,5,main] (DATABASE = flight_booking3-test), (DRDAID = {111}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:03:10 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 194c4222-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:03:35 BST 2016:
+Shutting down instance 194c4222-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:03:35 BST 2016 Thread[DRDAConnThread_43,5,main] (DATABASE = flight_booking3-test), (DRDAID = {114}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:03:35 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance dac9c26b-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:03:35 BST 2016:
+Shutting down instance dac9c26b-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:03:35 BST 2016 Thread[DRDAConnThread_47,5,main] (DATABASE = flight_booking3-test), (DRDAID = {116}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:03:51 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance b5d20270-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:04:15 BST 2016:
+Shutting down instance b5d20270-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:04:15 BST 2016 Thread[DRDAConnThread_46,5,main] (DATABASE = flight_booking3-test), (DRDAID = {119}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:04:15 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance d67d42c7-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:04:15 BST 2016:
+Shutting down instance d67d42c7-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:04:15 BST 2016 Thread[DRDAConnThread_48,5,main] (DATABASE = flight_booking3-test), (DRDAID = {121}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:03 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 91f882cc-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:03 BST 2016:
+Shutting down instance 91f882cc-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:04 BST 2016 Thread[DRDAConnThread_45,5,main] (DATABASE = flight_booking3-test), (DRDAID = {123}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:04 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 7d7a02d1-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:04 BST 2016:
+Shutting down instance 7d7a02d1-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:04 BST 2016 Thread[DRDAConnThread_49,5,main] (DATABASE = flight_booking3-test), (DRDAID = {125}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:20 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6901c2d6-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:20 BST 2016:
+Shutting down instance 6901c2d6-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:20 BST 2016 Thread[DRDAConnThread_48,5,main] (DATABASE = flight_booking3-test), (DRDAID = {127}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:20 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 248fc2db-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:20 BST 2016:
+Shutting down instance 248fc2db-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:20 BST 2016 Thread[DRDAConnThread_50,5,main] (DATABASE = flight_booking3-test), (DRDAID = {129}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:45 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 802402e0-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:46 BST 2016:
+Shutting down instance 802402e0-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:46 BST 2016 Thread[DRDAConnThread_49,5,main] (DATABASE = flight_booking3-test), (DRDAID = {131}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:23:46 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 4bbe82e5-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:23:46 BST 2016:
+Shutting down instance 4bbe82e5-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:23:46 BST 2016 Thread[DRDAConnThread_51,5,main] (DATABASE = flight_booking3-test), (DRDAID = {133}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:24:46 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 575f42ea-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:26:41 BST 2016:
+Shutting down instance 575f42ea-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:26:41 BST 2016 Thread[DRDAConnThread_47,5,main] (DATABASE = flight_booking3-test), (DRDAID = {136}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:26:41 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 44f1837d-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:26:42 BST 2016:
+Shutting down instance 44f1837d-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:26:42 BST 2016 Thread[DRDAConnThread_52,5,main] (DATABASE = flight_booking3-test), (DRDAID = {138}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:26:48 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 11504382-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:26:49 BST 2016:
+Shutting down instance 11504382-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:26:49 BST 2016 Thread[DRDAConnThread_50,5,main] (DATABASE = flight_booking3-test), (DRDAID = {140}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:26:49 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6db54387-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:26:49 BST 2016:
+Shutting down instance 6db54387-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:26:49 BST 2016 Thread[DRDAConnThread_53,5,main] (DATABASE = flight_booking3-test), (DRDAID = {142}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:26:58 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2a20838c-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:27:27 BST 2016:
+Shutting down instance 2a20838c-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:27:27 BST 2016 Thread[DRDAConnThread_53,5,main] (DATABASE = flight_booking3-test), (DRDAID = {146}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:27:27 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 82ecc3e3-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:27:27 BST 2016:
+Shutting down instance 82ecc3e3-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:27:27 BST 2016 Thread[DRDAConnThread_54,5,main] (DATABASE = flight_booking3-test), (DRDAID = {148}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:28:05 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 1fcb03e8-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:28:25 BST 2016:
+Shutting down instance 1fcb03e8-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:28:26 BST 2016 Thread[DRDAConnThread_52,5,main] (DATABASE = flight_booking3-test), (DRDAID = {151}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 13:28:26 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a1040421-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 13:28:26 BST 2016:
+Shutting down instance a1040421-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 13:28:26 BST 2016 Thread[DRDAConnThread_55,5,main] (DATABASE = flight_booking3-test), (DRDAID = {153}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:13:22 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 0e2fc426-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:15:54 BST 2016:
+Shutting down instance 0e2fc426-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:15:54 BST 2016 Thread[DRDAConnThread_57,5,main] (DATABASE = flight_booking3-test), (DRDAID = {157}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:15:54 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 8f8e442f-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:15:54 BST 2016:
+Shutting down instance 8f8e442f-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:15:54 BST 2016 Thread[DRDAConnThread_58,5,main] (DATABASE = flight_booking3-test), (DRDAID = {159}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:16:34 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 8ccb8434-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:16:34 BST 2016:
+Shutting down instance 8ccb8434-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:16:34 BST 2016 Thread[DRDAConnThread_56,5,main] (DATABASE = flight_booking3-test), (DRDAID = {161}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:16:35 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 3a0f0439-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:16:35 BST 2016:
+Shutting down instance 3a0f0439-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:16:35 BST 2016 Thread[DRDAConnThread_59,5,main] (DATABASE = flight_booking3-test), (DRDAID = {163}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:17:45 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6758c43e-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:17:45 BST 2016:
+Shutting down instance 6758c43e-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:17:45 BST 2016 Thread[DRDAConnThread_58,5,main] (DATABASE = flight_booking3-test), (DRDAID = {165}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:17:45 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance e4a8c443-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:17:46 BST 2016:
+Shutting down instance e4a8c443-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:17:46 BST 2016 Thread[DRDAConnThread_60,5,main] (DATABASE = flight_booking3-test), (DRDAID = {167}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:17:52 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 81ff0448-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:17:54 BST 2016:
+Shutting down instance 81ff0448-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:17:54 BST 2016 Thread[DRDAConnThread_61,5,main] (DATABASE = flight_booking3-test), (DRDAID = {170}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:17:54 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 4a960450-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:17:55 BST 2016:
+Shutting down instance 4a960450-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:17:55 BST 2016 Thread[DRDAConnThread_62,5,main] (DATABASE = flight_booking3-test), (DRDAID = {172}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:16 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 97fc8455-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:18 BST 2016:
+Shutting down instance 97fc8455-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:19 BST 2016 Thread[DRDAConnThread_63,5,main] (DATABASE = flight_booking3-test), (DRDAID = {175}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:19 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 20ad845d-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:19 BST 2016:
+Shutting down instance 20ad845d-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:19 BST 2016 Thread[DRDAConnThread_64,5,main] (DATABASE = flight_booking3-test), (DRDAID = {177}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:43 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance ee244462-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:43 BST 2016:
+Shutting down instance ee244462-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:43 BST 2016 Thread[DRDAConnThread_59,5,main] (DATABASE = flight_booking3-test), (DRDAID = {179}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:43 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 4ba14467-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:43 BST 2016:
+Shutting down instance 4ba14467-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:43 BST 2016 Thread[DRDAConnThread_65,5,main] (DATABASE = flight_booking3-test), (DRDAID = {181}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:47 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 0924846c-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:49 BST 2016:
+Shutting down instance 0924846c-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:49 BST 2016 Thread[DRDAConnThread_66,5,main] (DATABASE = flight_booking3-test), (DRDAID = {184}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:49 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance d2038474-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:49 BST 2016:
+Shutting down instance d2038474-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:49 BST 2016 Thread[DRDAConnThread_67,5,main] (DATABASE = flight_booking3-test), (DRDAID = {186}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:53 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 7f970479-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:53 BST 2016:
+Shutting down instance 7f970479-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:53 BST 2016 Thread[DRDAConnThread_64,5,main] (DATABASE = flight_booking3-test), (DRDAID = {188}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:53 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance ad30c47e-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:53 BST 2016:
+Shutting down instance ad30c47e-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:53 BST 2016 Thread[DRDAConnThread_68,5,main] (DATABASE = flight_booking3-test), (DRDAID = {190}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:57 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2ad0c483-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:58 BST 2016:
+Shutting down instance 2ad0c483-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_67,5,main] (DATABASE = flight_booking3-test), (DRDAID = {192}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:58 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance c8770488-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] Cleanup action starting
+java.sql.SQLException: Database 'flight_booking3-test' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 18 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] (DATABASE = flight_booking3-test), (DRDAID = {195}), Database 'flight_booking3-test' not found.
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] Cleanup action starting
+java.sql.SQLException: Database 'flight_booking3-test' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 18 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] (DATABASE = flight_booking3-test), (DRDAID = {196}), Database 'flight_booking3-test' not found.
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_67,5,main] Cleanup action starting
+java.sql.SQLException: Database 'flight_booking3-test' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 18 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_67,5,main] (DATABASE = flight_booking3-test), (DRDAID = {197}), Database 'flight_booking3-test' not found.
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] Cleanup action starting
+java.sql.SQLException: Database 'flight_booking3-test' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+Caused by: ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 18 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'flight_booking3-test' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver.connect(Unknown Source)
+	at org.apache.derby.jdbc.EmbeddedDriver.connect(Unknown Source)
+	at org.apache.derby.impl.drda.Database.makeConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.getConnFromDatabaseName(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.verifyUserIdPassword(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseSECCHK(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.parseDRDAConnection(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.processCommands(Unknown Source)
+	at org.apache.derby.impl.drda.DRDAConnThread.run(Unknown Source)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_70,5,main] (DATABASE = flight_booking3-test), (DRDAID = {198}), Database 'flight_booking3-test' not found.
+----------------------------------------------------------------
+Sun Mar 27 14:18:58 BST 2016:
+Shutting down instance c8770488-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:58 BST 2016 Thread[DRDAConnThread_69,5,main] (DATABASE = flight_booking3-test), (DRDAID = {194}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:59 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 5623848d-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:18:59 BST 2016:
+Shutting down instance 5623848d-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:18:59 BST 2016 Thread[DRDAConnThread_70,5,main] (DATABASE = flight_booking3-test), (DRDAID = {200}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:18:59 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a3d64492-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:19:00 BST 2016:
+Shutting down instance a3d64492-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:19:00 BST 2016 Thread[DRDAConnThread_70,5,main] (DATABASE = flight_booking3-test), (DRDAID = {202}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:19:02 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 818f4497-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:19:02 BST 2016:
+Shutting down instance 818f4497-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:19:02 BST 2016 Thread[DRDAConnThread_68,5,main] (DATABASE = flight_booking3-test), (DRDAID = {204}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:19:03 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance bf4e849c-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:19:03 BST 2016:
+Shutting down instance bf4e849c-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:19:03 BST 2016 Thread[DRDAConnThread_68,5,main] (DATABASE = flight_booking3-test), (DRDAID = {206}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:02 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2d1404a1-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:10 BST 2016:
+Shutting down instance 2d1404a1-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:10 BST 2016 Thread[DRDAConnThread_54,5,main] (DATABASE = flight_booking3-test), (DRDAID = {209}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:10 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance b65d04a9-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:10 BST 2016:
+Shutting down instance b65d04a9-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:10 BST 2016 Thread[DRDAConnThread_14,5,main] (DATABASE = flight_booking3-test), (DRDAID = {211}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:18 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 6432c4ae-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:23 BST 2016:
+Shutting down instance 6432c4ae-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:23 BST 2016 Thread[DRDAConnThread_12,5,main] (DATABASE = flight_booking3-test), (DRDAID = {214}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:23 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 2d95c4b6-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:23 BST 2016:
+Shutting down instance 2d95c4b6-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:24 BST 2016 Thread[DRDAConnThread_10,5,main] (DATABASE = flight_booking3-test), (DRDAID = {216}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:25 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance eb7bc4bb-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:25 BST 2016:
+Shutting down instance eb7bc4bb-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:25 BST 2016 Thread[DRDAConnThread_8,5,main] (DATABASE = flight_booking3-test), (DRDAID = {218}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:26 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 496804c0-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:26 BST 2016:
+Shutting down instance 496804c0-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:26 BST 2016 Thread[DRDAConnThread_5,5,main] (DATABASE = flight_booking3-test), (DRDAID = {220}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:29 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 175a84c5-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:29 BST 2016:
+Shutting down instance 175a84c5-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:29 BST 2016 Thread[DRDAConnThread_2,5,main] (DATABASE = flight_booking3-test), (DRDAID = {222}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:29 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 255344ca-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:30 BST 2016:
+Shutting down instance 255344ca-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:30 BST 2016 Thread[DRDAConnThread_32,5,main] (DATABASE = flight_booking3-test), (DRDAID = {224}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:33 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 435244cf-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:33 BST 2016:
+Shutting down instance 435244cf-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:33 BST 2016 Thread[DRDAConnThread_30,5,main] (DATABASE = flight_booking3-test), (DRDAID = {226}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:33 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 415784d4-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:34 BST 2016:
+Shutting down instance 415784d4-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:34 BST 2016 Thread[DRDAConnThread_28,5,main] (DATABASE = flight_booking3-test), (DRDAID = {228}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:38 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance ef6304d9-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:38 BST 2016:
+Shutting down instance ef6304d9-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:38 BST 2016 Thread[DRDAConnThread_26,5,main] (DATABASE = flight_booking3-test), (DRDAID = {230}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:38 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 1d74c4de-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:38 BST 2016:
+Shutting down instance 1d74c4de-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:38 BST 2016 Thread[DRDAConnThread_24,5,main] (DATABASE = flight_booking3-test), (DRDAID = {232}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:43 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 9b8cc4e3-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:53 BST 2016:
+Shutting down instance 9b8cc4e3-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:53 BST 2016 Thread[DRDAConnThread_23,5,main] (DATABASE = flight_booking3-test), (DRDAID = {236}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:21:53 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 9e9484ec-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:21:54 BST 2016:
+Shutting down instance 9e9484ec-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:21:54 BST 2016 Thread[DRDAConnThread_18,5,main] (DATABASE = flight_booking3-test), (DRDAID = {238}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:22:02 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 8cbe04f1-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:22:08 BST 2016:
+Shutting down instance 8cbe04f1-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:22:08 BST 2016 Thread[DRDAConnThread_52,5,main] (DATABASE = flight_booking3-test), (DRDAID = {241}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:22:08 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 16a704f9-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 27 14:22:08 BST 2016:
+Shutting down instance 16a704f9-0153-b4c9-1fbd-0000413f7848 on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sun Mar 27 14:22:08 BST 2016 Thread[DRDAConnThread_50,5,main] (DATABASE = flight_booking3-test), (DRDAID = {243}), Database 'flight_booking3-test' shutdown.
+----------------------------------------------------------------
+Sun Mar 27 14:22:18 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance 44e0c4fe-0153-b4c9-1fbd-0000413f7848 
+on database directory E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources\flight_booking3-test with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_72/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=c:\Program Files\Java\jdk1.8.0_72\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Dropbox\-=Project Suli=-\Birkbeck\3_2_3_Enterprise\Assignment\flight_booking3\src\main\resources
+Database Class Loader started - derby.database.classpath=''

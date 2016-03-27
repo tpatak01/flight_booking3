@@ -6,7 +6,7 @@
 
     <f:view contentType="text/html">
         <h:head>
-            <f:facet name="admin">
+            <f:facet name="customer">
                 <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>
                 <h:outputStylesheet name="../css/default.css"/>
                 <title>Flight Booking 3</title>
@@ -18,24 +18,22 @@
             <p:layout fullPage="true">
                 
                 <p:layoutUnit position="north" size="100" resizable="true" closable="true" collapsible="true">
-                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Manager login page</h1>
+                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Customer login page</h1>
                 </p:layoutUnit>
                 
                 <p:layoutUnit position="west" size="175" header="Menu" collapsible="False">
                     
-                    <p:menu>
-                        
+                    <p:menu>                        
                         <p:submenu>
-                            <p:menuitem value="Booking" url="../index.xhtml" />
-                        </p:submenu>
-                        
-                    </p:menu>
-                    
+                            <p:menuitem value="Booking" url="../index.xhtml" />                        
+                            <p:menuitem value="My details" url="customer_profile.xhtml" />                        
+                            <p:menuitem value="My bookings" url="customer_bookings.xhtml" />
+                        </p:submenu>                        
+                    </p:menu>                    
                 </p:layoutUnit>
 
                 <p:layoutUnit position="center">
                     Please provide your login details:                    
-                    
                 </p:layoutUnit>
                 
                 <p:layoutUnit position="south" size="50" closable="true" collapsible="true">
