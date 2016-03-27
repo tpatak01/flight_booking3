@@ -7,7 +7,7 @@
     <f:view contentType="text/html">
         <h:head>
             <f:facet name="admin">
-                <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>                
+                <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>           
                 <title>Flight Booking 3</title>
             </f:facet>
         </h:head>
@@ -17,7 +17,7 @@
             <p:layout fullPage="true">
                 
                 <p:layoutUnit position="north" size="100" resizable="true" closable="true" collapsible="true">
-                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Login page</h1>
+                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Flight Booking - Error</h1>
                 </p:layoutUnit>
                 
                 <p:layoutUnit position="west" size="175" header="Menu" collapsible="False">
@@ -25,30 +25,20 @@
                     <p:menu>
                         
                         <p:submenu>
-                            <p:menuitem value="Main page" url="../index.xhtml" />
+                            <p:menuitem value="Main page" url="../index.xhtml" />                            
+                        </p:submenu>
+                        
+                        <p:submenu>
+                            
                         </p:submenu>
                         
                     </p:menu>
                     
                 </p:layoutUnit>
 
-                <p:layoutUnit position="center">                
-                    <form method="post" action="j_security_check">
-                        <table role="presentation">
-                            <tr>
-                                <td>Please type your user name: </td>
-                                <td><input type="text" name="j_username" size="20"/></td>
-                            </tr>
-                            <tr>
-                                <td>Please type your password: </td>
-                                <td><input type="password" name="j_password" size="20"/></td>
-                            </tr>
-                        </table>
-                        <p></p>
-                        <input type="submit" value="Submit"/>
-                        
-                        <input type="reset" value="Reset"/>
-                    </form>
+                <p:layoutUnit position="center">
+                    <p class="red">My details:</p>
+                    
                 </p:layoutUnit>
                 
                 <p:layoutUnit position="south" size="50" closable="true" collapsible="true">

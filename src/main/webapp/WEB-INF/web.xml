@@ -23,7 +23,7 @@
     </welcome-file-list>
     
     
-    <!--
+    
     <security-constraint>
         <web-resource-collection>
             <web-resource-name>admin</web-resource-name>
@@ -43,9 +43,7 @@
         </form-login-config>
     </login-config>
     <security-role>
-        <description/>
         <role-name>admin</role-name>
-    </security-role>
+    </security-role>    
     
-    -->    
 </web-app>

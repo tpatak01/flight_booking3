@@ -7,7 +7,8 @@
     <f:view contentType="text/html">
         <h:head>
             <f:facet name="admin">
-                <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>                
+                <meta content='text/html; charset=UTF-8' http-equiv="Content-Type"/>
+                <h:outputStylesheet name="css/default.css"/>
                 <title>Flight Booking 3</title>
             </f:facet>
         </h:head>
@@ -17,7 +18,7 @@
             <p:layout fullPage="true">
                 
                 <p:layoutUnit position="north" size="100" resizable="true" closable="true" collapsible="true">
-                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Flight Booking View - Admin</h1>
+                    <h1 class="shadowme"><img class="logo" src="../resources/images/kitten.jpg" height="50" />Sales View - Admin</h1>
                 </p:layoutUnit>
                 
                 <p:layoutUnit position="west" size="175" header="Menu" collapsible="False">
@@ -29,8 +30,8 @@
                         </p:submenu>
                         
                         <p:submenu>
-                            <p:menuitem value="Default View" url="#" /> 
-                            <p:menuitem value="Sales View" url="admin_sales.xhtml" />
+                            <p:menuitem value="Default View" url="admin_view.xhtml" /> 
+                            <p:menuitem value="Sales View" url="#" />
                             <p:menuitem value="New Flight" url="admin_new.xhtml" />
                             <p:menuitem value="Edit flight status" url="admin_edit.xhtml" /> 
                         </p:submenu>
@@ -40,7 +41,7 @@
                 </p:layoutUnit>
 
                 <p:layoutUnit position="center">
-                    <p class="red">Active Flights:</p>
+                    <p class="red">Flights with selling seats:</p>
                     <p:dataTable var="Flight" value="#{dtActiveView.flights}">
                         <p:column headerText="Id">
                             <h:outputText value="#{Flight.fid}" />
@@ -99,7 +100,7 @@
                         </p:column> 
                       
                     </p:dataTable>                    
-                    <p class="red">Cancelled Flights:</p>
+                    <p class="red">Flights sold out:</p>
                     <p:dataTable var="Flight" value="#{dtCancelledView.flights}">
                         <p:column headerText="Id">
                             <h:outputText value="#{Flight.fid}" />
