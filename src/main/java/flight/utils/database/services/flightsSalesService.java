@@ -23,7 +23,8 @@ import java.sql.Statement;
  *
  * @author tomkabp
  */
-@ManagedBean(name = "salesService")
+
+@ManagedBean(name="salesService")
 @ApplicationScoped
 public class flightsSalesService {
 

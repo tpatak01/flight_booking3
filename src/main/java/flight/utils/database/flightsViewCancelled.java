@@ -7,6 +7,7 @@ package flight.utils.database;
 import java.io.Serializable;
 import java.util.List;
 import javax.annotation.PostConstruct;
+import javax.inject.Named;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ManagedProperty;
 import javax.faces.bean.ViewScoped;
@@ -17,11 +18,12 @@ import flight.utils.domain.Flight;
  *
  * @author tomkabp
  */
+
 @ManagedBean(name="dtCancelledView")
 @ViewScoped
 public class flightsViewCancelled implements Serializable {
     
-    private static String query = "select * from flights_cancelled";
+    private static final String query = "select * from flights_cancelled";
     private List<Flight> flights;
      
     @ManagedProperty("#{flightsVService}")
